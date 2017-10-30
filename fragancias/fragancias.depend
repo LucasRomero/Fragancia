@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509307527 source:c:\users\pato\desktop\src\clientes.cpp
+
+1509311155 source:c:\users\pato\desktop\fragancias\fragancias\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

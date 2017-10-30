@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1509306685 source:c:\users\wade\desktop\pruebas wxwidgets\fragancias\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"usuarios.h"
+
+1509302088 c:\users\wade\desktop\pruebas wxwidgets\fragancias\usuarios.h
+	<cstring>
+
+1509300283 source:c:\users\wade\desktop\pruebas wxwidgets\fragancias\usuarios.cpp
+	"usuarios.h"
+
+1509309704 source:c:\users\wade\desktop\proyecto labo 2\fragancias\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"usuarios.h"
+
+1509309926 c:\users\wade\desktop\proyecto labo 2\fragancias\usuarios.h
+	<cstring>
+
